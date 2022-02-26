@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋 Its me Aelish kumar 
 
-<!--
-**aelishkumar8/aelishkumar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on HTML, CSS, PHP and React
+- 🌱 I’m currently learning Machine learning 
+- 👯 I’m looking to collaborate on Machince Learning and Web development 
+- 💬 Ask me about Web development and Machine Learning 
+- 📫 How to reach me: 
+- 😄 Pronouns: Alice
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aelishkumar8&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelishkumar8&theme=vue&hide=contribs,prs)
