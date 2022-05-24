@@ -32,14 +32,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aelishkumar8&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelishkumar8&theme=vue)](https://github.com/aelishkumar8/github-readme-stats)
-
-
-## Github Activity Graph:
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aelishkumar8&theme=github)](https://github.com/aelishkumar8/github-readme-activity-graph)
 
 ## Connect with me:
 <p align="left">
