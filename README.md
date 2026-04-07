@@ -66,7 +66,7 @@
 |---|---|---|
 | 🐄 **Cow Breed Classifier** | CV + GenAI app — identifies breed from photo, returns LLM insights. TensorFlow, FastAPI, Docker, AWS, Gemini | [→ Demo](https://aelishkumar.vercel.app) |
 | 🎵 **Audio Entity Classifier** | CNN + RNN pipeline classifying cat / dog / human audio with 92%+ accuracy using MFCC preprocessing | [→ Repo](https://github.com/aelishkumar8/audio-classifier) |
-| ❤️ **Health Risk Predictor** | End-to-end ML system predicting heart attack, stroke, diabetes risk. Django + Python + ML — IIT Roorkee recognised | [→ Repo](https://github.com/aelishkumar8) |
+| ❤️ **Health Risk Predictor** | End-to-end ML system predicting heart attack, stroke, diabetes risk. Django + Python + ML — IIT Roorkee recognised | [→ Repo]([https://github.com/aelishkumar8](https://github.com/aelishkumar8/Remote-Patient-Diagnosis-System-)) |
 
 ---
 
