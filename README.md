@@ -21,8 +21,6 @@
 > Stack: TensorFlow · FastAPI · Docker · React · Gemini API  
 > 🔗 [Live Demo](https://aelishkumar.vercel.app) · [GitHub Repo](https://github.com/aelishkumar8/cow-breed-classifier)
 
-> **Spark Data Engineering** — PySpark + Databricks pipelines for ML feature stores  
-> Working towards: Databricks Certified Data Engineer Associate
 
 ---
 
